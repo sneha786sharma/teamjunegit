@@ -1,2 +1,4 @@
 Internet communication device
 itunes
+internet browser safari
+
